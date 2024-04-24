@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="779c94db-7fe6-4669-b242-ddaf79520fda" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ruthra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysS/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysS/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysS/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysS/Largestnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysS/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysS/Majority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysS/MergeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysS/PeackElemnt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysS/PintEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysS/PrintReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysS/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysS/Rotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Area_calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/ArrObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Bank/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Cons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/GetsPuts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/New.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Pattern7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Pattern_new.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Psttern7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems/Subscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/CountWrd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/FirstOcc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/IndexedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/ListAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Multiplyyy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Palindrome.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2fUFYW3ThANyjiL4hddW2Vfuf9I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Area.executor": "Run",
+    "Application.ArrObj (1).executor": "Run",
+    "Application.ArrObj.executor": "Run",
+    "Application.Cons.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Ruthra",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ArrObj">
+    <configuration name="Area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.Area" />
+      <module name="Ruthra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrObj (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.ArrObj" />
+      <module name="Ruthra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.ArrObj" />
+      <module name="Ruthra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.Cons" />
+      <module name="Ruthra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.Main" />
+      <module name="Ruthra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrObj" />
+        <item itemvalue="Application.ArrObj (1)" />
+        <item itemvalue="Application.Cons" />
+        <item itemvalue="Application.Area" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="779c94db-7fe6-4669-b242-ddaf79520fda" name="Changes" comment="" />
+      <created>1713847800799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713847800799</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
